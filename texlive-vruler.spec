@@ -6,7 +6,7 @@
 # catalog-version 2.3
 Name:		texlive-vruler
 Version:	2.3
-Release:	2
+Release:	3
 Summary:	Numbering text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vruler
