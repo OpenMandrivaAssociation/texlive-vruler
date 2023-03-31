@@ -1,6 +1,6 @@
 Name:		texlive-vruler
 Version:	21598
-Release:	1
+Release:	2
 Summary:	Numbering text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vruler
